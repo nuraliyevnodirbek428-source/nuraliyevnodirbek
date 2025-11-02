@@ -1,2 +1,19 @@
-# nuraliyevnodirbek
-O‘zbekcha Hayvon Aniqlovchi CNN AI
+# Hayvonlar CNN - Nodirbek Nuraliyev UZBEK AI
+
+Ushbu loyiha **Hayvonlar tasvirlarini tasniflash uchun CNN modeli**ni o‘rganish va takomillashtirish maqsadida ishlab chiqilgan. Model har bir sinf uchun 50 ta rasm (256x256 px) bilan o‘qitilgan va CPUda ham ishlaydi.
+
+## 🖼️ Sinflar
+
+- kuchuk
+- mushuk
+- ot
+- sichqon
+- sigir
+
+## ⚙️ Ishlatish
+
+1. Loyihani klonlash:
+
+```bash
+git clone <your-github-repo-url>
+cd Hayvonlar-CNN
