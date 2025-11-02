@@ -2,6 +2,9 @@
 
 Ushbu loyiha **Hayvonlar tasvirlarini tasniflash uchun CNN modeli**ni o‘rganish va takomillashtirish maqsadida ishlab chiqilgan. Model har bir sinf uchun 50 ta rasm (256x256 px) bilan o‘qitilgan va CPUda ham ishlaydi.
 
+
+Model aniqligi 98%
+
 ## 🖼️ Sinflar
 
 - kuchuk
