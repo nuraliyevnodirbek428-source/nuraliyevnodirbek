@@ -15,5 +15,5 @@ Ushbu loyiha **Hayvonlar tasvirlarini tasniflash uchun CNN modeli**ni o‘rganis
 1. Loyihani klonlash:
 
 ```bash
-git clone <your-github-repo-url>
+git clone [<your-github-repo-url>](https://github.com/nuraliyevnodirbek428-source/nuraliyevnodirbek)
 cd Hayvonlar-CNN
